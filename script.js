@@ -91,3 +91,10 @@ let concat = "You would use the concat method to combine arrays when you want to
 
 console.log("15.")
 console.log(concat);
+
+// Bonus Task
+// Sort the allFruits array in alphabetical order.
+allFruits.sort
+
+// Display the sorted allFruits array.
+console.log(allFruits)
